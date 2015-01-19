@@ -1,0 +1,52 @@
+01.Code-Lite
+Languages Supported: C, C++
+An Open-Source, cross-platform IDfor C+ and C++ coding languages, CodeLite works on all major platforms. 
+CodeLite offers a variety of features, including two built-in completion engines, compilers, refactoring, code navigation and more.
+
+02.Eclipse
+Languages Supported: C, C++, Python, Perl, PHP, Java, Ruby and more
+Many development frameworks are built on Eclipse, a free, open-source editor that was initially a Java environment
+but a variety of plug-ins have extended its capabilities considerably. The Eclipse Standard 4.3.2 version, for instance, 
+includes the Eclipse Platform along with the tools required to debug it, plus Java and Plugin Development Tooling and Git and CVS support.
+If your requirements are different, you can choose from a variety of Eclipse Package Solutions, including tools for Java developers, 
+Scout Developers, RCP and RAP Developers and more.
+
+03.NetBeans
+Languages Supported: C, C++, C++11, Fortan, Assembler
+An intuitive, drag-and-drop interface with project templates, binary and static libraries, and many useful functions 
+to make your life simpler, NetBeans is a popular IDE for C and C++ projects. It also supports Fortan and Assembler files, 
+with GNU Debugger Integration and code assistance, NetBeans is a functional IDE for editing existing projects, building on templates 
+or building from scratch on most leading platforms. There are also multiple NetBeans Enterprise IDE Download Bundles with options that 
+support several additional technologies, including Java, PHP, HTML5 and more.
+
+04.Komodo
+Languages Supported: Python, PHP, Ruby, Perl, HTML, CSS and JavaScript
+Komodo is a comprehensive IDE that supports all major programming languages, providing a single tool that meets your development needs
+across the spectrum. Whether you’re working with Python, PHP, Ruby, Perl, HTML, CSS or JavaScript, Komodo provides a clean, 
+intuitive interface with advanced editing capabilities and integrated tools for the most functionality.  
+
+05.Microsoft Visual Studio
+Languages Supported:
+Variety of languages supported across products
+Ajax, ASP.NET, XAML, JavaScript, dynamic HTML, DHTML, Visual Basic, Visual C#, Visual C++, Visual F#, JScript
+Several platforms support any programming language
+Microsoft Visual Studio offers a multitude of editions for developing, testing, and deploying applications for the web, desktop, mobile, 
+and even game consoles. With a plethora of testing and compatibility tools, you can test on virtual machines, tap into the functionality 
+of BrowserStack to see what your app looks like across more than 300 browsers, run compatibility reports to identify patterns and issues 
+between browsers and so much more.
+
+06.Lazarus
+Languages Supported: Object Pascal
+A free Pascal RAD IDE, Lazarus enables you to create complex graphical interfaces on any platform. Create open source or commercial applications, 
+including file browsers, database applications, graphics editing or 3D software, and more with more than 200 built-in components 
+and multiple add-ons via Lazarus Package Files (LPKs)  to extend capabilities.
+
+07.JCreator
+Languages Supported: Java
+A powerful IDE for Java, JCreator offers a range of features and functionality in a simple, intuitive interface that can be used easily by developers
+from beginner to advanced. While many Java-based editors and IDEs are written in Java, JCreator is written in C++ to provide enhanced speed and agility.
+
+
+
+
+

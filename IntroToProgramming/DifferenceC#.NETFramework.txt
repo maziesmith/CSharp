@@ -1,0 +1,20 @@
+.NET Framework is a software framework developed by Microsoft. It consists of Framework class library and Common Language Runtime
+It includes a large class library known as Framework Class Library (FCL) and provides language interoperability 
+(each language can use code written in other languages) across several programming languages. 
+Programs written for .NET Framework execute in a software environment, 
+known as Common Language Runtime (CLR), an application virtual machine that provides services such as security, 
+memory management, and exception handling. FCL and CLR together constitute .NET Framework.
+
+FCL provides user interface, data access, database connectivity, cryptography, web application development, numeric algorithms, 
+and network communications. Programmers produce software by combining their own source code with .NET Framework and other libraries. 
+.NET Framework is intended to be used by most new applications created for Windows platform. Microsoft also produces an 
+integrated development environment largely for .NET software called Visual Studio.
+
+VS
+
+C# is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, 
+object-oriented (class-based), and component-oriented programming disciplines.
+It was developed by Microsoft within its .NET initiative and later approved as a standard by Ecma (ECMA-334) and ISO (ISO/IEC 23270:2006). C# is one of the programming languages designed for the Common Language Infrastructure.
+
+C# is intended to be a simple, modern, general-purpose, object-oriented programming language.
+Its development team is led by Anders Hejlsberg. The most recent version is C# 5.0, which was released on August 15, 2012.
